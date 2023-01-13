@@ -1,0 +1,1 @@
+# Default Node js project architecture
